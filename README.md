@@ -1,6 +1,6 @@
 # My first webserver with Express
 
-Exploring Express, during IBM Course on EDEX => Application Development with Node.Js & Express
+Exploring Express, during IBM Courses on EDEX => Application Development with Node.Js & Express and Git and Github Basics
 
 Following Express JS Crash Course by Traversy Media
 // thank you Brad!
@@ -83,3 +83,4 @@ Following Express JS Crash Course by Traversy Media
 
 // we now have a static web server
 // we can create and add into the public folder a site with html and css
+// the html files are just boilerplates
